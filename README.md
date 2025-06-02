@@ -18,6 +18,7 @@ What truly sets us apart is that our team consists entirely of top participants 
 
 | Dates | Project | Engagement type | Outcome |
 | --- | --- | --- | --- |
+| 21&nbsp;Mar&nbsp;2025&nbsp;&ndash;<br>27&nbsp;Apr&nbsp;2025 | <a href="#"><img src="https://www.google.com/s2/favicons?domain=liquity.org&sz=64" height="15"></a> Liquity | Audit contest at<br><a href="#"><img src="https://cantina.xyz/favicon.ico" height="15"></a> [Cantina](https://cantina.xyz/) | [4th place](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712/leaderboard) |
 | 14&nbsp;Dec&nbsp;2024&nbsp;&ndash;<br>17&nbsp;Jan&nbsp;2025 | <a href="#"><img src="https://www.story.foundation/icon.png" height="15"></a> Story | Audit contest at<br><a href="#"><img src="https://cantina.xyz/favicon.ico" height="15"></a> [Cantina](https://cantina.xyz/) | 🥉 [3rd place](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58/leaderboard) |
 | 9&nbsp;Dec&nbsp;2024&nbsp;&ndash;<br>13&nbsp;Dec&nbsp;2024 | <a href="#"><img src="https://zksync.io/favicon.ico" height="15"></a> ZKsync Shared Bridge (USDC) | Private audit | [Audit report](audit-reports/ZKsync%20Shared%20Bridge%20(USDC)%20Audit.pdf) |
 | 23&nbsp;Sep&nbsp;2024&nbsp;&ndash;<br>29&nbsp;Nov&nbsp;2024 | <a href="#"><img src="https://zksync.io/favicon.ico" height="15"></a> ZKsync Gateway | Private audit | [Audit report](audit-reports/ZKsync%20Gateway%20Audit.pdf) |

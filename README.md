@@ -18,6 +18,7 @@ What truly sets us apart is that our team consists entirely of top participants 
 
 | Dates | Project | Engagement type | Outcome |
 | --- | --- | --- | --- |
+| 20&nbsp;Jun&nbsp;2025 | Undisclosed project | Bug bounty at<br><a href="#"><img src="https://immunefi.com/apple-touch-icon.png" width="15"></a> [Immunefi](https://immunefi.com/) | Confirmed medium-severity bug |
 | 21&nbsp;Mar&nbsp;2025&nbsp;&ndash;<br>27&nbsp;Apr&nbsp;2025 | <a href="#"><img src="https://www.google.com/s2/favicons?domain=liquity.org&sz=64" width="15"></a> Liquity | Audit contest at<br><a href="#"><img src="https://cantina.xyz/favicon.ico" width="15"></a> [Cantina](https://cantina.xyz/) | [4th place](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712/leaderboard) |
 | 7&nbsp;Mar&nbsp;2025&nbsp;&ndash;<br>28&nbsp;Mar&nbsp;2025 | <a href="#"><img src="https://www.google.com/s2/favicons?domain=eigenlayer.xyz&sz=64" width="15"></a> Eigenlayer | Audit contest at<br><a href="#"><img src="https://cantina.xyz/favicon.ico" width="15"></a> [Cantina](https://cantina.xyz/) | 🥈 [2nd place](https://cantina.xyz/competitions/e7af4986-183d-4764-8bd2-1d6b47f87d99/leaderboard) |
 | 14&nbsp;Dec&nbsp;2024&nbsp;&ndash;<br>17&nbsp;Jan&nbsp;2025 | <a href="#"><img src="https://www.story.foundation/icon.png" width="15"></a> Story | Audit contest at<br><a href="#"><img src="https://cantina.xyz/favicon.ico" width="15"></a> [Cantina](https://cantina.xyz/) | 🥉 [3rd place](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58/leaderboard) |

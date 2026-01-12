@@ -18,6 +18,7 @@ What truly sets us apart is that our team consists entirely of top participants 
 
 | Dates | Project | Engagement type | Outcome |
 | --- | --- | --- | --- |
+| Jun&nbsp;2025&nbsp;&ndash;<br>Dec&nbsp;2025 | <a href="#"><img src="https://zksync.io/favicon.ico" width="15"></a> ZKsync OS | Private security review | Private report |
 | 20&nbsp;Oct&nbsp;2025&nbsp;&ndash;<br>17&nbsp;Nov&nbsp;2025 | <a href="#"><img src="https://www.google.com/s2/favicons?domain=centrifuge.io&sz=64" width="15"></a> Centrifuge Protocol V3.1 | Audit contest at<br><a href="#"><img src="https://www.google.com/s2/favicons?domain=sherlock.xyz&sz=64" width="15"></a> [Sherlock](https://sherlock.xyz/) | [6th place](https://audits.sherlock.xyz/contests/1028/leaderboard) |
 | 15&nbsp;Jul&nbsp;2025&nbsp;&ndash;<br>25&nbsp;Jul&nbsp;2025 | <a href="#"><img src="https://www.google.com/s2/favicons?domain=morpho.org&sz=64" width="15"></a> Morpho Vault v2 | Audit contest at<br><a href="#"><img src="https://cantina.xyz/favicon.ico" width="15"></a> [Cantina](https://cantina.xyz/) | 🥇 [1st place](https://cantina.xyz/code/523e1540-f8c3-45ae-9c5d-b6d35d3a326c/overview/leaderboard) |
 | 20&nbsp;Jun&nbsp;2025 | Undisclosed project | Bug bounty at<br><a href="#"><img src="https://immunefi.com/apple-touch-icon.png" width="15"></a> [Immunefi](https://immunefi.com/) | Confirmed medium-severity bug |
